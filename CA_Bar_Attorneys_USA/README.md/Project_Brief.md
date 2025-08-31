@@ -1,4 +1,4 @@
-# 🏛️ California Bar Attorneys Scraper
+# 🏛️ California Bar Attorneys Scraper:
 
 ## 📌 Project Overview
 This project demonstrates how to **scrape attorney profile data** from the official  
