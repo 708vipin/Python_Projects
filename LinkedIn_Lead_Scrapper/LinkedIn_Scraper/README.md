@@ -68,3 +68,22 @@ LinkedIn_Scraper/
 
 ## 👨‍💻 Author
 Project built by **Vipin Pandey** as part of a **real-world scraping portfolio**.
+
+
+Tech Stack Description
+
+Notes
+
+selenium → Automates LinkedIn with browser.
+
+playwright → Alternative to Selenium (more stealth, modern).
+
+beautifulsoup4 + lxml → Parse profile HTML.
+
+pandas + openpyxl → Clean/export data to CSV/Excel.
+
+requests → For lightweight calls (non-browser scraping parts).
+
+tqdm → Progress bar for large scraping jobs.
+
+loguru → Clean logging system (all logs saved in /logs).
