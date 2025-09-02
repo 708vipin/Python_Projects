@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Logs and raw scraped data
+logs/
+raw/
+*.log
+
+# Sensitive cookies or session files
+cookies.json
+*.cookies
+*.session
+
+# Jupyter notebooks checkpoints (if used)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/

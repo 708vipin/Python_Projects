@@ -1,0 +1,11 @@
+selenium
+playwright
+beautifulsoup4
+lxml
+pandas
+openpyxl
+requests
+tqdm
+loguru
+
+
