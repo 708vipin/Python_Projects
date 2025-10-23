@@ -1,0 +1,15 @@
+Summary
+We are seeking a virtual assistant to help us scrape data from 10 YouTube channels.
+The task involves extracting information from the 10 most viral videos on each channel, including the following
+#followers
+#title 
+#views 
+#likes 
+#publication date 
+#video link 
+This is a straightforward task expected to take less than 60 minutes.
+
+Deliverables
+Scrape data from 10 YouTube channels
+Extract data from 10 most viral videos per channel
+Provide followers, title, views, likes, publication date, and video link
