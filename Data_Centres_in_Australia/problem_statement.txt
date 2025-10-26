@@ -1,0 +1,20 @@
+Summary
+Seeking a skilled freelancer to conduct a one-time data scraping project to compile a comprehensive list of data centers in Australia and New Zealand. The task involves gathering detailed information such as power output, location, and images, and inputting it into an Airtable spreadsheet. The freelancer must ensure the data is complete and accurate, requiring additional online research and data refinement.
+
+Deliverables
+Compile a list of data centers in Australia and New Zealand
+Gather detailed information including power output and location
+Input data into an Airtable spreadsheet (link provided later)
+Conduct additional research for missing information
+Sources will be provided including current data centre directories but note that additional information gathering and data refinement will be required.
+Ensure data completeness and accuracy
+Sources include:
+- https://www.datacenters.com/locations/australia (249 records)
+- https://cloudscene.com/market/data-centers-in-australia/all (314 records)
+- https://baxtel.com/data-center/oceania
+- https://cloudscene.com/market/data-centers-in-australia/all (314 records)
+
+
+You will be asked to answer the following questions when submitting a proposal:
+
+Outline your proposal about how you'll gather the initial data from the 4 sources listed and then refine duplicated records.
