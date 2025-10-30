@@ -1,0 +1,42 @@
+Summary
+I already created a Google Sheet containing a list of real estate offices in Antwerp, including the city and office name.
+
+Now I need additional data enrichment for each office.
+You’ll use specific, pre-approved websites (listed inside the Google Sheet) to ensure the data is 100% accurate and verified.
+
+⚠️ Only the sources mentioned in the sheet are allowed — do not use your own scraping tools or random data websites.
+
+Data to collect (columns to fill in):
+Full Address
+VAT Number
+Website URL
+Owner Name
+First Name
+Last Name
+Phone Number
+General Email (e.g. info@...)
+Personal Email (professional, not Gmail/Outlook)
+
+Requirements:
+Must be extremely detail-oriented
+Must follow instructions exactly as written
+Must cross-check data carefully (accuracy is more important than speed)
+
+No AI-generated or guessed data — only verified information from official or provided sources
+
+Good English communication
+
+Deliverables:
+Completed Google Sheet with all missing data fields filled in
+100% verified and consistent formatting (no duplicates, no errors)
+
+Additional notes:
+There are 372 offices in total to complete.
+
+The sheet already includes examples and detailed instructions under each column — read them carefully before starting.
+
+If anything is unclear, ask before continuing. Mistakes or assumptions will not be accepted.
+
+Budget & Deadline:
+Fixed price (to be discussed based on accuracy and speed)
+Short trial first (5–10 entries) — if accurate, we’ll continue with the full list.

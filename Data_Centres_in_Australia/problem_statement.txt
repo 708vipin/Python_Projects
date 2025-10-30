@@ -1,5 +1,7 @@
 Summary
-Seeking a skilled freelancer to conduct a one-time data scraping project to compile a comprehensive list of data centers in Australia and New Zealand. The task involves gathering detailed information such as power output, location, and images, and inputting it into an Airtable spreadsheet. The freelancer must ensure the data is complete and accurate, requiring additional online research and data refinement.
+Seeking a skilled freelancer to conduct a one-time data scraping project to compile a comprehensive list of data centers in Australia and New Zealand. 
+The task involves gathering detailed information such as power output, location, and images, and inputting it into an Airtable spreadsheet. 
+The freelancer must ensure the data is complete and accurate, requiring additional online research and data refinement.
 
 Deliverables
 Compile a list of data centers in Australia and New Zealand

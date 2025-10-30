@@ -1,0 +1,40 @@
+Summary
+We’re looking for a high-quality lead researcher or scraping specialist to deliver:
+
+🎯 Target:
+• 1,000 solar installation companies in Australia
+• Focus on residential solar providers
+
+🔍 What we need:
+• Decision maker name: preferably Founder, CEO, Director, or Sales Manager
+• Phone number: personal if possible, otherwise office number that can be forwarded to them
+• Company name + website
+• Email address
+• Location (State)
+• Optional: Employee size or CRM tool (bonus)
+
+📌 Must be clean, verified data — no outdated contacts or irrelevant businesses.
+
+Delivery format: Google Sheet or CSV
+
+🚀 This will lead to ongoing work if quality is strong.
+
+Deliverables
+Field Each lead must include:
+Requirement
+✅ Company Name
+Full legal trading name
+✅ Website URL
+Active and correct
+✅ Decision Maker Name
+Preferably Founder, CEO, Director, or Sales Manager
+✅ Decision Maker Title
+Clear and accurate job title
+✅ Phone Number
+Direct mobile (preferred), or office number that forwards to decision maker
+✅ Email Address
+Verified business email (not generic info@ where possible)
+✅ Location (State)
+VIC, NSW, QLD, SA, WA
+✅ Notes/Extras
+CRM used or number of employees (optional bonus fields

@@ -1,11 +1,6 @@
-import requests
-from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
-base_url = "https://www.yellowpages.com.au/search/listings?clue=Interior+Designers&locationClue=&lat=&lon="
-
-data = []
-
-for page in range(1,51):
-    url = base_url.format(page)
-    res = requests.get(url)
-    soup = BeautifulSoup(res.text, "html.parser")
+with sync_playwright() as playwright:
+    browser = playwright.chromium.launch(headless = False, slow_mo = 500)
+    page = browser.new_page()
+    web = page.goto("https://www.yellowpages.com.au/search/listings?clue=Interior+Designers&locationClue=&lat=&lon=")
