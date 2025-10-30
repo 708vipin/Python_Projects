@@ -37,4 +37,4 @@ Verified business email (not generic info@ where possible)
 ✅ Location (State)
 VIC, NSW, QLD, SA, WA
 ✅ Notes/Extras
-CRM used or number of employees (optional bonus fields
+CRM used or number of employees (optional bonus fields)
